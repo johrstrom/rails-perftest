@@ -34,7 +34,7 @@ Add this line to your application's Gemfile:
 
 If you want to benchmark/profile under MRI or REE, add this line as well:
 
-    gem 'ruby-prof'
+    gem 'ruby-prof', '~> 0.18'
 
 Now run `bundle install` and you're ready to go.
 
